@@ -1,4 +1,4 @@
-package JLabelBasic;
+package swing_practice.JLabelBasic;
 
 import javax.swing.*;
 import javax.swing.BorderFactory;

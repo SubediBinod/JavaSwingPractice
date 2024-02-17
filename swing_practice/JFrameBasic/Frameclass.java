@@ -1,4 +1,4 @@
-package JFrameBasic;
+package swing_practice.JFrameBasic;
 
 import javax.swing.*;
 import java.awt.*;
