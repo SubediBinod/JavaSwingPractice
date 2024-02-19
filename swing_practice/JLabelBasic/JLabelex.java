@@ -20,7 +20,7 @@ public class JLabelex extends JFrame {
         l.setIconTextGap(100);
         l.setOpaque(true);
         l.setBackground(new Color(0x999999));
-        l.setForeground(Color.CYAN);//label ko text lai kolor garx
+        l.setForeground(Color.CYAN);//label ko text lai color garx
         Border b =  BorderFactory.createLineBorder(Color.RED,10);
         l.setBorder(b);
         //Using an alignment
